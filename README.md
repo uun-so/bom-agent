@@ -85,4 +85,10 @@ Bom-Agent-Python/
 
 ## 设计决策
 
-见 `v1-ADR.md`。
+见 [v1-ADR.md]。
+
+## 项目文档
+- 📎 [PRD产品文档](./docs/prd.md)
+- 📎 [竞品分析文档](./docs/competitor_analysis.md)
+- ## 📌 业务流程图
+![BOM零部件变更业务流程图](./docs/flowchart.png)
